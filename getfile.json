@@ -1,0 +1,49 @@
+{
+  "result": true,
+  "plugins": {
+    "AddedMe": {
+      "text": "AddedMe",
+      "link": "https://t.me/X6YX6/18"
+    },
+    "TagAll": {
+      "text": "TagAll",
+      "link": "https://t.me/X6YX6/30"
+    },
+    "TagAdmins": {
+      "text": "TagAdmins",
+      "link": "https://t.me/X6YX6/29"
+    },
+    "ReplyBot": {
+      "text": "ReplyBot",
+      "link": "https://t.me/X6YX6/28"
+    },
+    "MuteNames": {
+      "text": "MuteNames",
+      "link": "https://t.me/X6YX6/25"
+    },
+    "ProNames": {
+      "text": "ProNames",
+      "link": "https://t.me/X6YX6/26"
+    },
+    "ChangeName": {
+      "text": "ChangeName",
+      "link": "https://t.me/X6YX6/21"
+    },
+    "ChangeUser": {
+      "text": "ChangeUser",
+      "link": "https://t.me/X6YX6/23"
+    },
+    "ChangePhoto": {
+      "text": "ChangePhoto",
+      "link": "https://t.me/X6YX6/22"
+    },
+    "AutoFile": {
+      "text": "AutoFile",
+      "link": "https://t.me/X6YX6/19"
+    },
+    "BankBot": {
+      "text": "BankBot",
+      "link": "https://t.me/X6YX6/31"
+    }
+  }
+}
